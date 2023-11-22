@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut.</h1>
 <h3 align="center">Computer Engineering Student at RWTH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karabulutumut&label=Profile%20views&color=0e75b6&style=flat" alt="karabulutumut" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karabulutumut" alt="karabulutumut" /></a> </p>
-
 - 🌱 I’m currently learning **web scraping in Python**
 
 - 📫 How to reach me **umutkarabulut.personal@gmail.com**
@@ -20,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karabulutumut&show_icons=true&locale=en" alt="karabulutumut" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabulutumut&" alt="karabulutumut" /></p>
