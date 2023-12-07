@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut.</h1>
 <h3 align="center">Computer Engineering Student at RWTH</h3>
 
-- 🌱 I’m currently learning **web scraping in Python**
+- 🌱 I’m currently learning **Data Engineering.**
 
 - 📫 How to reach me **umutkarabulut.personal@gmail.com**
 
